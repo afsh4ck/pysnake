@@ -17,8 +17,8 @@ Este proyecto implementa el clásico juego Snake utilizando el lenguaje de progr
 - **Puntuación y Récord:** Muestra la puntuación actual y el récord alcanzado, incentivando al jugador a superar su mejor marca.
 
 ### Como jugar
-
-    ```git clone https://github.com/afsh4ck/pysnake.git
-    python3 pysnake.py```
-
+```
+git clone https://github.com/afsh4ck/pysnake.git
+python3 pysnake.py
+```
 ¡Diviértete jugando Snake y mejora tus habilidades de programación con este proyecto interactivo en Python!
