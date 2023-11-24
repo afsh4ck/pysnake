@@ -2,7 +2,7 @@
 
 Este proyecto implementa el clásico juego Snake utilizando el lenguaje de programación Python y la biblioteca Turtle para la interfaz gráfica. La serpiente se desplaza por el tablero en busca de comida, creciendo cada vez que consume un elemento. El objetivo es alcanzar la puntuación máxima sin colisionar con las paredes o el propio cuerpo.
 
-![image](https://github.com/afsh4ck/pysnake/assets/132138425/dc88e1f9-bd52-4f69-b857-1365bb187b4a)
+![image](https://github.com/afsh4ck/pysnake/assets/132138425/1b1a791d-7f20-4d0e-b2cf-a0e06656ae80)
 
 ### Características Principales
 
