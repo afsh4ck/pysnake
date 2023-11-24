@@ -21,4 +21,15 @@ Este proyecto implementa el clásico juego Snake utilizando el lenguaje de progr
 git clone https://github.com/afsh4ck/pysnake.git
 python3 pysnake.py
 ```
+
+### Controles
+
+| Tecla | Dirección   |
+|-------|-------------|
+| W     | Arriba      |
+| A     | Izquierda   |
+| S     | Abajo       |
+| D     | Derecha     |
+
+
 ¡Diviértete jugando Snake y mejora tus habilidades de programación con este proyecto interactivo en Python!
